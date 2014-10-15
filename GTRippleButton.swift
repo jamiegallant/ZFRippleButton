@@ -1,6 +1,5 @@
 //
-//  ZFRippleButton.swift
-//  ZFRippleButtonDemo
+//  GTRippleButton.swift
 //
 //  Created by Amornchai Kanokpullwad on 6/26/14.
 //  Copyright (c) 2014 zoonref. All rights reserved.
@@ -10,7 +9,7 @@
 import UIKit
 import QuartzCore
 
-class ZFRippleButton: UIButton {
+class GTRippleButton: UIButton {
   
   var ripplePercent: Float = 0.8
   var rippleOverBounds: Bool = false
