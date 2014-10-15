@@ -1,6 +1,12 @@
 ZFRippleButton
 ==============
 
+## Update
+
+A small rewrite to remove the IBDesignable stuff and shadows.
+
+## ORIGINAL
+
 iOS Custom UIButton effect inspired by Google Material Design written in Swift
 
 <p align="center"><img src="https://raw.githubusercontent.com/zoonooz/ZFRippleButton/master/Screenshot/colored-button.gif"/></p>
